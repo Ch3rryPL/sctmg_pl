@@ -10,6 +10,9 @@ Zanim padnie pierwszy strzał lub zostanie wydany pierwszy rozkaz, każdy dowód
 Każda figurka Archon Studio w armii gracza jest **MODELEM** – pojedynczą jednostką (Marine, Zergling, Ultralisk) zamontowaną na własnej, niezależnej podstawce. Wszystkie zasady oddziałują na **MODEL** poprzez jego podstawkę. Podstawka jest najważniejszym elementem - wszystkie pomiary wykonuje się od jej krawędzi. Fizyczna figurka znajdująca się powyżej podstawki służy wyłącznie celom estetycznym.
 </details>
 
+??? info "2.1 Modele"
+    Każda figurka Archon Studio w armii gracza jest **MODELEM** – pojedynczą jednostką (Marine, Zergling, Ultralisk) zamontowaną na własnej, niezależnej podstawce. Wszystkie zasady oddziałują na **MODEL** poprzez jego podstawkę. Podstawka jest najważniejszym elementem - wszystkie pomiary wykonuje się od jej krawędzi. Fizyczna figurka znajdująca się powyżej podstawki służy wyłącznie celom estetycznym.
+
 <details>
 <summary>2.2 Jednostki</summary>
 
