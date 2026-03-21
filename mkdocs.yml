@@ -1,0 +1,31 @@
+site_name: "StarCraft: Archiwum Zasad"
+site_description: "Nieoficjalne polskie tłumaczenie StarCraft: The Miniatures Game"
+theme:
+  name: material
+  language: pl
+  palette:
+    - scheme: slate  # Ciemny motyw pasujący do klimatu Sci-Fi
+      primary: blue
+      accent: light blue
+  features:
+    - navigation.tabs # Górne zakładki dla Twoich Kategorii
+    - navigation.sections
+    - navigation.expand
+    - content.tabs.link
+    - content.code.annotate
+
+nav:
+  - 'Główna': index.md
+  - 'Kategoria Pierwsza: Zasady':
+      - 'Wstęp i Podstawy': zasady/index.md
+      - 'Rozdział 2: Podstawowe Pojęcia': zasady/rozdzial-2.md
+      - 'Rozdział 11: Słownik Terminologii': zasady/slownik.md
+  - 'Kategoria Druga: Frakcje i Karty':
+      - 'Przegląd Frakcji': frakcje/index.md
+  - 'Kategoria Trzecia: Karty Misji':
+      - 'Draft i Rozstawienie': misje/index.md
+
+markdown_extensions:
+  - pymdownx.details # Odpowiada za rozwijane bloki (spoiler/accordion)
+  - pymdownx.superfences
+  - attr_list
