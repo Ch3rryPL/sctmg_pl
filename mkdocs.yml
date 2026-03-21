@@ -19,7 +19,7 @@ nav:
   - 'Kategoria Pierwsza: Zasady':
       - 'Wstęp i Podstawy': zasady/index.md
       - 'Rozdział 2: Podstawowe Pojęcia': zasady/rozdzial-2.md
-      - 'Rozdział 11: Słownik Terminologii': zasady/slownik.md
+      - 'Rozdział 11: Słownik Terminologii': zasady/rozdzial-11.md
   - 'Kategoria Druga: Frakcje i Karty':
       - 'Przegląd Frakcji': frakcje/index.md
   - 'Kategoria Trzecia: Karty Misji':
