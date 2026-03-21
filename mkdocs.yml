@@ -19,7 +19,16 @@ nav:
   - 'Kategoria Pierwsza: Zasady':
       - 'Wstęp i Podstawy': zasady/index.md
       - 'Rozdział 2: Podstawowe Pojęcia': zasady/rozdzial-2.md
-      - 'Rozdział 11: Słownik Terminologii': zasady/rozdzial-11.md
+      - 'Rozdział 3: Kości i Rzuty': zasady/rozdzial-3.md
+      - 'Rozdział 4: Pomiar i Ruch': zasady/rozdzial-4.md
+      - 'Rozdział 5: Karty i Cechy': zasady/rozdzial-5.md
+      - 'Rozdział 6: System Zaopatrzenia': zasady/rozdzial-6.md
+      - 'Rozdział 7: Pole Bitwy': zasady/rozdzial-7.md
+      - 'Rozdział 8: Sekwencja Gry': zasady/rozdzial-8.md
+      - 'Rozdział 9: Przygotowanie do Bitwy': zasady/rozdzial-9.md
+      - 'Rozdział 10: Zasady Zaawansowane': zasady/rozdzial-10.md
+      - 'Rozdział 11: Słownik Słów Kluczowych i Definicji': zasady/rozdzial-11.md
+      - 'Rozdział 12: Przegląd Zasad': zasady/rozdzial-12.md
   - 'Kategoria Druga: Frakcje i Karty':
       - 'Przegląd Frakcji': frakcje/index.md
   - 'Kategoria Trzecia: Karty Misji':
