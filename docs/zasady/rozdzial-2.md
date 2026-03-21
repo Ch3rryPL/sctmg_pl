@@ -4,36 +4,24 @@ Zanim padnie pierwszy strzał lub zostanie wydany pierwszy rozkaz, każdy dowód
 
 ---
 
-<details>
-<summary>2.1 Modele</summary>
-
-Każda figurka Archon Studio w armii gracza jest **MODELEM** – pojedynczą jednostką (Marine, Zergling, Ultralisk) zamontowaną na własnej, niezależnej podstawce. Wszystkie zasady oddziałują na **MODEL** poprzez jego podstawkę. Podstawka jest najważniejszym elementem - wszystkie pomiary wykonuje się od jej krawędzi. Fizyczna figurka znajdująca się powyżej podstawki służy wyłącznie celom estetycznym.
-</details>
-
 ??? info "2.1 Modele"
     Każda figurka Archon Studio w armii gracza jest **MODELEM** – pojedynczą jednostką (Marine, Zergling, Ultralisk) zamontowaną na własnej, niezależnej podstawce. Wszystkie zasady oddziałują na **MODEL** poprzez jego podstawkę. Podstawka jest najważniejszym elementem - wszystkie pomiary wykonuje się od jej krawędzi. Fizyczna figurka znajdująca się powyżej podstawki służy wyłącznie celom estetycznym.
 
-<details>
-<summary>2.2 Jednostki</summary>
-
-Armia składa się z **JEDNOSTEK**. **JEDNOSTKA** to jeden lub więcej **MODELI** działających wspólnie jako jedna formacja.
+??? info "2.2 Jednostki"
+    Armia składa się z **JEDNOSTEK**. **JEDNOSTKA** to jeden lub więcej **MODELI** działających wspólnie jako jedna formacja.
 
 * **Skład:** Każda **KARTA JEDNOSTKI** określa, ile **MODELI** zawiera dana **JEDNOSTKA**. Oddział piechoty może liczyć wielu żołnierzy; pojazd oblężniczy może działać samotnie.
 * **Spójność:** **MODELE** w ramach **JEDNOSTKI** muszą zachować **SPÓJNOŚĆ** (Rozdział 4.4). Reprezentuje ona dyscyplinę i komunikację wymaganą do działania na polu bitwy.
 * **Przyjazne i Wrogie:** Własne **JEDNOSTKI** gracza są przyjazne. **JEDNOSTKI** przeciwnika są wrogie.
-</details>
 
-<details>
-<summary>2.3 Podstawki</summary>
-
-Każdy **MODEL** stoi na podstawce, a ta podstawka jest najważniejszym fizycznym obiektem w grze. Nie ma znaczenia, jak figurka jest zapozowana – czy Zelota jest w połowie skoku, czy Hydralisk pręży się do uderzenia – zasady widzą tylko podstawkę. Każdy pomiar, każde sprawdzenie **LINII WZROKU**, każde pytanie o to, czy dwa **MODELE** się dotykają lub nachodzą na siebie, jest rozstrzygane poprzez patrzenie na ich podstawki i nic innego.
+??? info "2.3 Podstawki"
+    Każdy **MODEL** stoi na podstawce, a ta podstawka jest najważniejszym fizycznym obiektem w grze. Nie ma znaczenia, jak figurka jest zapozowana – czy Zelota jest w połowie skoku, czy Hydralisk pręży się do uderzenia – zasady widzą tylko podstawkę. Każdy pomiar, każde sprawdzenie **LINII WZROKU**, każde pytanie o to, czy dwa **MODELE** się dotykają lub nachodzą na siebie, jest rozstrzygane poprzez patrzenie na ich podstawki i nic innego.
 
 Każdy **MODEL** musi być zamontowany na podstawce o odpowiednim rozmiarze, określonym na jego **KARCIE JEDNOSTKI**. Użycie niewłaściwego rozmiaru podstawki zmienia fizyczny obrys **MODELU** i bezpośrednio wpływa na rozgrywkę, dlatego spójność ma kluczowe znaczenie.
 
 * **Brak Nachodzenia:** Podstawki nigdy nie mogą na siebie nachodzić. Jeśli **MODEL** nie może zostać umieszczony tak, aby jego podstawka nie nachodziła na inną podstawkę lub teren nieprzejezdny, po prostu nie może się tam znaleźć.
 * **Wolność Estetyczna:** Gracze mogą dowolnie dodawać elementy dekoracyjne na podstawkach, tworzyć własne konwersje, dramatyczne pozy i używać podstawek do modeli latających. Należy jednak pamiętać, że dla potrzeb zasad liczą się tylko podstawka oraz **CECHA** **ROZMIAR** na **KARCIE JEDNOSTKI**. Marine stojący na stosie gruzu nie jest wyższy od tego stojącego na gołej podstawce. Spód wspornika latającego liczy się jako podstawka modelu dla wszystkich pomiarów i pozycjonowania.
 * **Syndrom Chwiejnego Modelu:** Czasami podstawka **MODELU** nie może stać płasko na elemencie terenu. Gdy tak się stanie, gracze powinni uzgodnić, w którym miejscu stałby **MODEL**, gdyby powierzchnia na to pozwalała. Umieść **MODEL** tak blisko tego miejsca, jak to możliwe, lub postaw go obok i użyj **ZNACZNIKA** bądź pustej podstawki, aby wskazać jego faktyczną pozycję. Jeśli jego pozycja jest niejasna, obaj gracze powinni uzgodnić jego lokalizację przed wykonaniem jakichkolwiek pomiarów lub sprawdzeniem **LINII WZROKU**.
-</details>
 
 <details>
 <summary>2.4 Tagi</summary>
