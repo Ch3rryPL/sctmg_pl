@@ -5,8 +5,8 @@ theme:
   language: pl
   palette:
     - scheme: slate  # Ciemny motyw pasujący do klimatu Sci-Fi
-      primary: blue
-      accent: light blue
+      primary: dark blue
+      accent: blue
   features:
     - navigation.tabs # Górne zakładki dla Twoich Kategorii
     - navigation.sections
