@@ -34,7 +34,7 @@ Każda bitwa zaczyna się na długo przed oddaniem pierwszego strzału. Gracze b
 ??? info "9.1.3 Minerały"
     **9.1.3 Minerały** Wydawaj **MINERAŁY**, aby rekrutować **JEDNOSTKI** i kupować **ULEPSZENIA**. Całkowity koszt w **MINERAŁACH** nie może przekroczyć limitu **SKALI STARCIA**. Niewykorzystane **MINERAŁY** przepadają.
 
-??? 9.1.4 Gaz Wespan
+??? info "9.1.4 Gaz Wespan"
     **9.1.4 Gaz Wespan** Wydawaj **GAZ WESPAN** wyłącznie na **KARTY TAKTYCZNE**. Nie może on zostać zamieniony na **MINERAŁY**. Niewykorzystany **GAZ WESPAN** przepada.
 
     !!! example "PRZYKŁAD"
