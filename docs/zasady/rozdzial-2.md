@@ -26,19 +26,19 @@ Zanim padnie pierwszy strzał lub zostanie wydany pierwszy rozkaz, każdy dowód
 ??? info "2.4 Tagi"
     **TAGI** to **SŁOWA KLUCZOWE** wydrukowane na dole każdej **KARTY JEDNOSTKI**. Pozwalają one zasadom oddziaływać na konkretne typy **JEDNOSTEK** bez konieczności powtarzania długich definicji.
     
-    #### 2.4.1 Tagi Frakcji
-    **TAGI FRAKCJI** identyfikują przynależność **JEDNOSTKI**.
-    * **Tagi Rasy:** **TERRANIE**, **ZERGOWIE**, **PROTOSSI**.
-    * **Tagi Podfrakcji:** Konkretne szczepy lub organizacje, np. **RÓJ KERRIGAN**, **REBELIANCI RAYNORA**.
-    * **Funkcja:** Podczas budowania armii gracz może włączać tylko te **JEDNOSTKI** i **KARTY TAKTYCZNE**, które dzielą **TAGI FRAKCJI** z wybraną **KARTĄ FRAKCJI**.
+    ??? info "2.4.1 Tagi Frakcji"
+        **TAGI FRAKCJI** identyfikują przynależność **JEDNOSTKI**.
+        * **Tagi Rasy:** **TERRANIE**, **ZERGOWIE**, **PROTOSSI**.
+        * **Tagi Podfrakcji:** Konkretne szczepy lub organizacje, np. **RÓJ KERRIGAN**, **REBELIANCI RAYNORA**.
+        * **Funkcja:** Podczas budowania armii gracz może włączać tylko te **JEDNOSTKI** i **KARTY TAKTYCZNE**, które dzielą **TAGI FRAKCJI** z wybraną **KARTĄ FRAKCJI**.
     
-    #### 2.4.2 Tagi Bojowe
-    **TAGI BOJOWE** identyfikują fizyczną naturę **JEDNOSTKI** i jej klasę taktyczną.
-    * **Tagi Typu:** **BIOLOGICZNE**, **MECHANICZNE**, **PSIONICZNE**.
-    * **Obieranie za cel:** Niektóre bronie mogą strzelać tylko do celów o konkretnych tagach (np. „Cel: **LATAJĄCE**”).
-    * **Zryw:** Broń aktywuje swoją wydajność **ZRYWU** tylko wtedy, gdy cel posiada **TAG BOJOWY** wymieniony w Typie **ZRYWU** broni.
-    * **Premie:** Zdolności takie jak **PRZECIWUNIK (X)** lub **PRZEBICIE (X)** często mają zastosowanie tylko przeciwko konkretnym tagom.
-    * **Uwaga:** **TAG BOJOWY** **NAZIEMNE** oraz poziom wysokości **POZIOM GRUNTU** (Rozdział 8.5.3) to dwa oddzielne pojęcia. **JEDNOSTKA** **LATAJĄCA** stojąca na macie do gry znajduje się na **POZIOMIE GRUNTU**, ale nie posiada **TAGU BOJOWEGO** **NAZIEMNE**.
+    ??? info "2.4.2 Tagi Bojowe"
+        **TAGI BOJOWE** identyfikują fizyczną naturę **JEDNOSTKI** i jej klasę taktyczną.
+        * **Tagi Typu:** **BIOLOGICZNE**, **MECHANICZNE**, **PSIONICZNE**.
+        * **Obieranie za cel:** Niektóre bronie mogą strzelać tylko do celów o konkretnych tagach (np. „Cel: **LATAJĄCE**”).
+        * **Zryw:** Broń aktywuje swoją wydajność **ZRYWU** tylko wtedy, gdy cel posiada **TAG BOJOWY** wymieniony w Typie **ZRYWU** broni.
+        * **Premie:** Zdolności takie jak **PRZECIWUNIK (X)** lub **PRZEBICIE (X)** często mają zastosowanie tylko przeciwko konkretnym tagom.
+        * **Uwaga:** **TAG BOJOWY** **NAZIEMNE** oraz poziom wysokości **POZIOM GRUNTU** (Rozdział 8.5.3) to dwa oddzielne pojęcia. **JEDNOSTKA** **LATAJĄCA** stojąca na macie do gry znajduje się na **POZIOMIE GRUNTU**, ale nie posiada **TAGU BOJOWEGO** **NAZIEMNE**.
 
 ??? info "2.5 Role graczy"
     W dowolnym momencie każdy gracz zajmuje jedną lub więcej z poniższych ról. Terminy te pojawiają się w całych zasadach i określają, kto podejmuje decyzje i rzuca kośćmi.
@@ -50,21 +50,24 @@ Zanim padnie pierwszy strzał lub zostanie wydany pierwszy rozkaz, każdy dowód
 ??? info "2.6 Słowa Kluczowe i Priorytet Zasad"
     **Zasada Szczegółowa** nadpisuje **Zasadę Ogólną**. Jeśli tekst na **KARCIE JEDNOSTKI**, **KARCIE MISJI** lub w opisie Zdolności Specjalnej jest sprzeczny z Podstawowymi Zasadami, pierwszeństwo ma karta lub zdolność.
     
-    #### 2.6.1 Słowa kluczowe
-    **SŁOWA KLUCZOWE** są pisane **POGRUBIONYMI WIELKIMI LITERAMI** (np. **BROŃ BOCZNA**, **PRZEBICIE**, **UKRYTY**). **SŁOWO KLUCZOWE** zawsze oznacza to samo, niezależnie od tego, która **JEDNOSTKA** je posiada. Pełne definicje znajdują się w **ROZDZIALE 11: GLOSARIUSZ SŁÓW KLUCZOWYCH I DEFINICJE**.
-    
-    **SŁOWA KLUCZOWE** nie kumulują się. Uzyskanie statusu **UKRYTY** dwukrotnie nie daje dodatkowych korzyści. Jeśli **JEDNOSTKA** posiada **PRECYZJĘ (1)** i zyska **PRECYZJĘ (2)**, należy użyć wyłącznie wyższej wartości.
+    ??? info "2.6.1 Słowa kluczowe"
+        **SŁOWA KLUCZOWE** są pisane **POGRUBIONYMI WIELKIMI LITERAMI** (np. **BROŃ BOCZNA**, **PRZEBICIE**, **UKRYTY**). **SŁOWO KLUCZOWE** zawsze oznacza to samo, niezależnie od tego, która **JEDNOSTKA** je posiada. Pełne definicje znajdują się w **ROZDZIALE 11: GLOSARIUSZ SŁÓW KLUCZOWYCH I DEFINICJE**.
+        
+        **SŁOWA KLUCZOWE** nie kumulują się. Uzyskanie statusu **UKRYTY** dwukrotnie nie daje dodatkowych korzyści. Jeśli **JEDNOSTKA** posiada **PRECYZJĘ (1)** i zyska **PRECYZJĘ (2)**, należy użyć wyłącznie wyższej wartości.
+
+    ??? info "2.6.2 Priorytet zadad"
+    **Zasada Szczegółowa** nadpisuje **Zasadę Ogólną**. Jeśli tekst na **KARCIE JEDNOSTKI**, **KARCIE MISJI** lub w opisie Zdolności Specjalnej jest sprzeczny z Podstawowymi Zasadami, pierwszeństwo ma karta lub zdolność.
 
 ??? info "2.7 Typy Zdolności"
     Każda Zdolność Specjalna wpada do jednej z trzech kategorii. Rozdział 10 opisuje to szczegółowo.
     
-    #### 2.7.1 Zdolności Aktywne
-    **ZDOLNOŚCI AKTYWNE** to świadome wybory: zastrzyk stymulantów, zmiana trybu. Wymagają one, aby **JEDNOSTKA** była Aktywowana. Każda nazwana **ZDOLNOŚĆ AKTYWNA** może być użyta tylko raz na Rundę przez konkretną **JEDNOSTKĘ**. Efekty wygasają na **KOŃCU BIEŻĄCEJ RUNDY**, o ile nie zaznaczono inaczej.
+    ??? info "2.7.1 Zdolności Aktywne"
+        **ZDOLNOŚCI AKTYWNE** to świadome wybory: zastrzyk stymulantów, zmiana trybu. Wymagają one, aby **JEDNOSTKA** była Aktywowana. Każda nazwana **ZDOLNOŚĆ AKTYWNA** może być użyta tylko raz na Rundę przez konkretną **JEDNOSTKĘ**. Efekty wygasają na **KOŃCU BIEŻĄCEJ RUNDY**, o ile nie zaznaczono inaczej.
     
-    #### 2.7.2 Zdolności Pasywne
-    **ZDOLNOŚCI PASYWNE** są zawsze włączone. Reprezentują wrodzone **CECHY**, stałe wyposażenie lub adaptacje biologiczne, które po prostu działają tak długo, jak **JEDNOSTKA** znajduje się na polu bitwy.
+    ??? info "2.7.2 Zdolności Pasywne"
+        **ZDOLNOŚCI PASYWNE** są zawsze włączone. Reprezentują wrodzone **CECHY**, stałe wyposażenie lub adaptacje biologiczne, które po prostu działają tak długo, jak **JEDNOSTKA** znajduje się na polu bitwy.
     
-    #### 2.7.3 Zdolności Reakcji
-    **REAKCJE** to refleks pola bitwy. Aktywują się w odpowiedzi na konkretny wyzwalacz: nadlatujący atak, wrogą **SZARŻĘ** czy zniszczenie **MODELU**. **REAKCJA** musi zostać zadeklarowana dokładnie w momencie, w którym wystąpi jej wyzwalacz.
+    ??? info "2.7.3 Zdolności Reakcji"
+        **REAKCJE** to refleks pola bitwy. Aktywują się w odpowiedzi na konkretny wyzwalacz: nadlatujący atak, wrogą **SZARŻĘ** czy zniszczenie **MODELU**. **REAKCJA** musi zostać zadeklarowana dokładnie w momencie, w którym wystąpi jej wyzwalacz.
     
-    Każdy gracz może rozliczyć tylko jedną **REAKCJĘ** na Aktywację. Każda nazwana **REAKCJA** może być użyta tylko raz na Rundę przez konkretną **JEDNOSTKĘ**, w tym podczas **FAZY NATARCIA**. Jeśli obaj gracze chcą zareagować na ten sam wyzwalacz, Gracz Aktywny rozlicza swoją **REAKCJĘ** jako pierwszy.
+        Każdy gracz może rozliczyć tylko jedną **REAKCJĘ** na Aktywację. Każda nazwana **REAKCJA** może być użyta tylko raz na Rundę przez konkretną **JEDNOSTKĘ**, w tym podczas **FAZY NATARCIA**. Jeśli obaj gracze chcą zareagować na ten sam wyzwalacz, Gracz Aktywny rozlicza swoją **REAKCJĘ** jako pierwszy.
