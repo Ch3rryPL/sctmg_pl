@@ -1,6 +1,7 @@
 # ROZDZIAŁ 2: PODSTAWOWE POJĘCIA
 
-Zanim padnie pierwszy strzał lub zostanie wydany pierwszy rozkaz, każdy dowódca musi opanować język pola bitwy. Ten **ROZDZIAŁ** wprowadzi czytelnika w podstawowe elementy gry, czyli wyjaśni, czym są **MODELE** i **JEDNOSTKI** oraz jak są używane przez gracza, a także przedstawi terminologię, która będzie stosowana w dalszej części podręcznika. Jeśli najpierw zrozumiesz te pojęcia, pozostałe zasady gry staną się dla Ciebie w pełni jasne.
+!!! quote "Odprawa Taktyczna"
+    Zanim padnie pierwszy strzał lub zostanie wydany pierwszy rozkaz, każdy dowódca musi opanować język pola bitwy. Ten **ROZDZIAŁ** wprowadzi czytelnika w podstawowe elementy gry, czyli wyjaśni, czym są **MODELE** i **JEDNOSTKI** oraz jak są używane przez gracza, a także przedstawi terminologię, która będzie stosowana w dalszej części podręcznika. Jeśli najpierw zrozumiesz te pojęcia, pozostałe zasady gry staną się dla Ciebie w pełni jasne.
 
 ---
 
