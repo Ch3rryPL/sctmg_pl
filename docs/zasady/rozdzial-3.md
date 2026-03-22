@@ -31,8 +31,8 @@
     * **Modyfikator +1** zmniejsza **WARTOŚĆ DOCELOWĄ** o 1. Marine trafia teraz na 4+.
     * **Modyfikator -1** zwiększa **WARTOŚĆ DOCELOWĄ** o 1. Marine trafia teraz na 6+.
 
-!!! note "NOTKA PROJEKTANTA"
-    **MODYFIKATORY** służą do dostosowania **WARTOŚCI DOCELOWEJ**, a nie samego wyniku na kości. Pomaga to zachować prostotę obliczeń. Zapewnia to również, że automatyczne sukcesy przy rzucie na 6 i automatyczne porażki przy rzucie na 1 są przejrzyste, bez względu na to, ile modyfikatorów zostanie zastosowanych.
+    !!! note "NOTKA PROJEKTANTA"
+        **MODYFIKATORY** służą do dostosowania **WARTOŚCI DOCELOWEJ**, a nie samego wyniku na kości. Pomaga to zachować prostotę obliczeń. Zapewnia to również, że automatyczne sukcesy przy rzucie na 6 i automatyczne porażki przy rzucie na 1 są przejrzyste, bez względu na to, ile modyfikatorów zostanie zastosowanych.
 
 ??? info "3.5 Stałe Dodatki"
     Jeśli zasada mówi „**K3+1**”, należy rzucić kością i dodać 1 do końcowego wyniku. Nie jest to modyfikator do **WARTOŚCI DOCELOWEJ** – generuje on konkretną wartość (np. 4 obrażenia zamiast 3).
