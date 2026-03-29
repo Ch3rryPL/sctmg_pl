@@ -797,3 +797,223 @@
                 *Punkty: 30*
                 
                 Bronie Pazury oraz Rozrywające Pazury tej JEDNOSTKI otrzymują **PRECYZJĘ** (2).
+
+## KARTY TAKTYCZNE (11)
+
+??? note "Kliknij, aby rozwinąć sekcję Kart Taktycznych"
+
+    ??? info "Accelerating Creep [UNIKALNA]"
+        ### Accelerating Creep
+        *Karta Taktyczna*
+        
+        *Koszt: 0 Gazu*
+
+        **Zdolności Karty**
+
+        ??? note "Dowolna Faza"
+            ??? quote "Speed on Creep (Pasywna)"
+                Jeśli aktywna **PRZYJAZNA JEDNOSTKA ZERGÓW** znajduje się **NA BIOMASIE**, zwiększ jej cechę Szybkość o 1.
+
+            ??? quote "Living Glob of Tissue (Pasywna)"
+                **ZNACZNIKI** Guzu Biomasy posiadają zasady **POZOSTAJE W GRZE** oraz **PRZEMIESZCZENIE**.
+
+            ??? quote "Creep Removal (Pasywna)"
+                Jeśli **WROGIA JEDNOSTKA** zakończy akcję **RUCHU**, **ROZMIESZCZENIA**, Biegu, **SZARŻY** lub **ZERWANIA KONTAKTU W ZASIĘGU** 1" od **PRZYJAZNEGO ZNACZNIKA** Guzu Biomasy, usuń ten **ZNACZNIK** z pola bitwy.
+
+    ??? info "Evolution Chamber"
+        ### Evolution Chamber
+        *Karta Taktyczna*
+        
+        *Koszt: 30 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +1 BM (Biomasa)
+        * **MIEJSCE BAZOWE:** 1
+
+        **Zdolności Karty**
+
+        ??? note "Dowolna Faza"
+            ??? quote "Carapace (Reakcja)"
+                Użyj, zanim **PRZYJAZNA JEDNOSTKA** wykona Rzut na Pancerz. Ta JEDNOSTKA otrzymuje **TWARDY** (1) podczas tego rzutu.
+
+        ??? warning "Faza Natarcia"
+            ??? quote "Extended Claws (Aktywna)"
+                Aktywna JEDNOSTKA otrzymuje **MODYFIKATOR** +1 do wszystkich Rzutów na Trafienie ze **ZDERZENIA**.
+
+    ??? info "Hatchery"
+        ### Hatchery
+        *Karta Taktyczna*
+        
+        *Koszt: 30 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +1 BM (Biomasa)
+        * **MIEJSCE WSPARCIA:** 1
+
+        **Zdolności Karty**
+
+        ??? abstract "Faza Ruchu"
+            ??? quote "Lie in Wait (Aktywna)"
+                Aktywna, **NIEZWIĄZANA WALKĄ** Naziemna JEDNOSTKA otrzymuje **STATUS ZAKOPANY**.
+
+            ??? quote "Creep Spread (Aktywna)"
+                **UMIEŚĆ ZNACZNIK** Guzu Biomasy na polu bitwy **W ZASIĘGU** 6" (**LINIA WZROKU** nie jest wymagana) od **PRZYJAZNEJ KRAWĘDZI WEJŚCIA** lub istniejącego **PRZYJAZNEGO ZNACZNIKA** Guzu Biomasy.
+
+    ??? info "Hydralisk Den"
+        ### Hydralisk Den
+        *Karta Taktyczna*
+        
+        *Koszt: 35 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +1 BM (Biomasa)
+        * **MIEJSCE ELITARNE:** 2
+
+        **Zdolności Karty**
+
+        ??? warning "Faza Natarcia"
+            ??? quote "Missile Attacks (Aktywna)"
+                Pierwsza użyta Broń Dystansowa aktywnej JEDNOSTKI otrzymuje **PRECYZJĘ** (1).
+
+    ??? info "Lair [UNIKALNA]"
+        ### Lair
+        *Karta Taktyczna*
+        
+        *Koszt: 35 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +1 BM (Biomasa)
+        * **MIEJSCE ELITARNE:** 1
+        * **MIEJSCE BAZOWE:** 1
+
+        **Zdolności Karty**
+
+        ??? note "Dowolna Faza"
+            ??? quote "Predation (Aktywna)"
+                Bronie do Walki Wręcz aktywnej JEDNOSTKI otrzymują zasade **NATYCHMIASTOWY**.
+
+        ??? abstract "Faza Ruchu"
+            ??? quote "Creep Spread (Aktywna)"
+                **UMIEŚĆ ZNACZNIK** Guzu Biomasy na polu bitwy **W ZASIĘGU** 6" (**LINIA WZROKU** nie jest wymagana) od **PRZYJAZNEJ KRAWĘDZI WEJŚCIA** lub istniejącego **PRZYJAZNEGO ZNACZNIKA** Guzu Biomasy.
+
+    ??? info "Malignant Creep [UNIKALNA]"
+        ### Malignant Creep
+        *Karta Taktyczna*
+        
+        *Koszt: 10 Gazu*
+
+        **Zdolności Karty**
+
+        ??? note "Dowolna Faza"
+            ??? quote "Living Glob of Tissue (Pasywna)"
+                **ZNACZNIKI** Guzu Biomasy posiadają zasady **POZOSTAJE W GRZE** oraz **PRZEMIESZCZENIE**.
+
+            ??? quote "Creep Removal (Pasywna)"
+                Jeśli **WROGIA JEDNOSTKA** zakończy akcję **RUCHU**, **ROZMIESZCZENIA**, Biegu, **SZARŻY** lub **ZERWANIA KONTAKTU W ZASIĘGU** 1" od **PRZYJAZNEGO ZNACZNIKA** Guzu Biomasy, usuń ten **ZNACZNIK** z pola bitwy.
+
+        ??? warning "Faza Natarcia"
+            ??? quote "Malevolent Matriarch (Pasywna)"
+                Jeśli aktywna **PRZYJAZNA JEDNOSTKA ZERGÓW** deklaruje akcję **SZARŻY**, będąc **NA BIOMASIE**, otrzymuje **MODYFIKATOR** +1 do Rzutów na Trafienie ze **ZDERZENIA**.
+
+    ??? info "Overlord [UNIKALNA]"
+        ### Overlord
+        *Karta Taktyczna*
+        
+        *Koszt: 45 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +1 BM (Biomasa)
+        * **MIEJSCE BOHATERA:** 1
+        * **MIEJSCE ELITARNE:** 1
+        * **MIEJSCE BAZOWE:** 1
+
+        **Zdolności Karty**
+
+        ??? abstract "Faza Ruchu"
+            ??? quote "Ventral Sacs (Aktywna)"
+                **UMIEŚĆ** Wskaźnik Frakcji w dowolnym miejscu na polu bitwy, w odległości większej niż 10" od jakiegokolwiek **WROGIEGO** modelu. Na Końcu Rundy, **GRACZ KONTROLUJĄCY** może wykonać **ROZMIESZCZENIE** jednej JEDNOSTKI Naziemnej z **REZERW** w kontakcie podstawkami z tym Wskaźnikiem Frakcji.
+
+        ??? warning "Faza Natarcia"
+            ??? quote "Excrete Creep (Aktywna)"
+                **UMIEŚĆ ZNACZNIK** Guzu Biomasy na polu bitwy **W ZASIĘGU** 6" (**LINIA WZROKU** nie jest wymagana) od **PRZYJAZNEJ KRAWĘDZI WEJŚCIA** lub istniejącego **PRZYJAZNEGO ZNACZNIKA** Guzu Biomasy.
+
+    ??? info "Overseer [UNIKALNA]"
+        ### Overseer
+        *Karta Taktyczna*
+        
+        *Koszt: 25 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +1 BM (Biomasa)
+        * **MIEJSCE WSPARCIA:** 1
+
+        **Zdolności Karty**
+
+        ??? abstract "Faza Ruchu"
+            ??? quote "Oversight Mode (Aktywna)"
+                **UMIEŚĆ** Wskaźnik Frakcji w dowolnym miejscu na polu bitwy. Dopóki **WROGIE JEDNOSTKI** znajdują się **W ZASIĘGU** 6" od tego Wskaźnika Frakcji, tracą **STATUS UKRYTY**.
+
+        ??? warning "Faza Natarcia"
+            ??? quote "Pneumatized Carapace (Reakcja)"
+                Użyj po tym, jak **PRZYJAZNA JEDNOSTKA** wykona rzut K6 na Odległość **SZARŻY**. Rzuć dodatkową K6 i użyj wyższego wyniku do obliczenia całkowitej Odległości **SZARŻY**.
+
+    ??? info "Roach Warren"
+        ### Roach Warren
+        *Karta Taktyczna*
+        
+        *Koszt: 25 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +1 BM (Biomasa)
+        * **MIEJSCE BAZOWE:** 1
+
+        **Zdolności Karty**
+
+        ??? warning "Faza Natarcia"
+            ??? quote "Nasty Surprise (Aktywna)"
+                Aktywna Naziemna JEDNOSTKA traci **STATUS ZAKOPANY**.
+
+    ??? info "Spawning Pool"
+        ### Spawning Pool
+        *Karta Taktyczna*
+        
+        *Koszt: 25 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +1 BM (Biomasa)
+        * **MIEJSCE BAZOWE:** 1
+
+        **Zdolności Karty**
+
+        ??? danger "Faza Walki"
+            ??? quote "Feral Rage (Aktywna)"
+                Pierwsza użyta Broń do Walki Wręcz aktywnej JEDNOSTKI otrzymuje **PRECYZJĘ** (2).
+
+    ??? info "Spawning Pool (Six Pool) [UNIKALNA]"
+        ### Spawning Pool (Six Pool)
+        *Karta Taktyczna*
+        
+        *Koszt: 40 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +2 BM (Biomasa)
+        * **MIEJSCE BAZOWE:** 2
+
+        **Zdolności Karty**
+
+        ??? abstract "Faza Ruchu"
+            ??? quote "Timing Push (Aktywna)"
+                Aktywna JEDNOSTKA Zerglingów wykonuje **ROZMIESZCZENIE** z dowolnej krawędzi stołu, która nie jest **KRAWĘDZIĄ WEJŚCIA GRACZA KONTROLUJĄCEGO**. Akcja ta musi zakończyć się w odległości większej niż 10" od jakiegokolwiek **WROGIEGO** modelu.
+
+        ??? danger "Faza Walki"
+            ??? quote "Feral Rage (Aktywna)"
+                Pierwsza użyta Broń do Walki Wręcz aktywnej JEDNOSTKI otrzymuje **PRECYZJĘ** (2).
