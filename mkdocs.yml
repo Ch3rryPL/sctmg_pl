@@ -34,6 +34,9 @@ nav:
       - 'Rozdział 12: Przegląd Zasad': zasady/rozdzial-12.md
   - 'Kategoria Druga: Frakcje i Karty':
       - 'Przegląd Frakcji': frakcje/index.md
+      - 'Protoss': frakcje/index.md
+      - 'Terran': frakcje/index.md
+      - 'Zerg': frakcje/zerg.md
   - 'Kategoria Trzecia: Karty Misji':
       - 'Draft i Rozstawienie': misje/index.md
 
