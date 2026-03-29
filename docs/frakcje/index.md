@@ -4,6 +4,7 @@
         *Karta Frakcji*
 
         **Statystyki:**
+
         * **ZASÓB:** +1 BM
         * **MIEJSCE BOHATERA:** 1
         * **MIEJSCE ELITARNE:** 2
@@ -26,6 +27,7 @@
         *Karta Frakcji*
 
         **Statystyki:**
+
         * **ZASÓB:** +1 BM
         * **MIEJSCE ELITARNE:** 1
         * **MIEJSCE PODSTAWOWE:** 3
