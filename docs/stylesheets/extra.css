@@ -1,9 +1,7 @@
-/* Poszerzenie głównego kontenera strony */
 :root {
-  --md-grid-max-width: 1600px; 
+  --md-grid-max-width: 1600px !important; 
 }
 
-/* Opcjonalnie: upewnienie się, że tabele zajmują całą dostępną szerokość */
 .md-typeset table {
-  width: 100%;
+  width: 100% !important;
 }
