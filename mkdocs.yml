@@ -35,7 +35,11 @@ nav:
       - 'Draft i Rozstawienie': misje/index.md
 
 markdown_extensions:
+  - tables
   - admonition          # To aktywuje bloki !!!
   - pymdownx.details # Odpowiada za rozwijane bloki (spoiler/accordion)
   - pymdownx.superfences
   - attr_list
+
+extra_css:
+  - stylesheets/extra.css
