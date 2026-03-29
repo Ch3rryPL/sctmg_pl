@@ -4,12 +4,12 @@ Witaj w centrum dowodzenia! Sektor Koprulu to brutalne pole bitwy, na którym be
 
 Wybierz frakcję poniżej, aby poznać jej zasady, profile jednostek oraz dedykowane karty taktyczne:
 
-!!! abstract "Protoss: Daelaam i Khalai"
+!!! tip "Protoss: Daelaam i Khalai"
     **Protossi** to prastara, wysoce zaawansowana technologicznie rasa wojowników i psioników. Ich armie mogą być nieliczne, ale każdy żołnierz chroniony jest przez potężne tarcze energetyczne. Wykorzystują **Energię Psioniczną (EP)** do zaginania czasoprzestrzeni i teleportacji posiłków prosto na pole bitwy.
     
     👉 **[Przejdź do Armii Protossów](protoss.md)**
     
-!!! info "Terran: Siły Zbrojne Terran"
+!!! note "Terran: Siły Zbrojne Terran"
     **Terranie** to mistrzowie przetrwania i bezlitosnej adaptacji. Ich armie opierają się na zmasowanej sile ognia na dystans, mobilności taktycznej i wsparciu mechanicznym. Dowodzeni przez wybitnych strategów, wykorzystują **Punkty Dowodzenia (PD)**, by wydawać rozkazy, używać stymulantów i wzywać zrzuty zaopatrzenia.
     
     👉 **[Przejdź do Armii Terran](terran.md)**
