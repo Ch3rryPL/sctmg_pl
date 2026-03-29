@@ -35,7 +35,7 @@
 
         **Zdolności Karty**
 
-       !!! abstract "Faza Ruchu"
+        !!! abstract "Faza Ruchu"
             !!! quote "Tactical Retreat (Aktywna)"
                 Aktywna JEDNOSTKA ignoruje karę za **ZERWANIE KONTAKTU** do końca Rundy.
 
@@ -452,3 +452,201 @@
             |---|---|---|---|---|---|---|---|---|
             | **Bayonet** | E | Naziemny | 2 | 5+ | - | - | 1 | - |
             
+## KARTY TAKTYCZNE (10)
+
+??? note "Kliknij, aby rozwinąć sekcję Kart Taktycznych"
+
+    ??? info "Academy [UNIKALNA]"
+        ### Academy
+        *Karta Taktyczna*
+        
+        *Koszt: 35 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +1 PD (Punkty Dowodzenia)
+        * **MIEJSCE WSPARCIA:** 2
+
+        **Zdolności Karty**
+
+        !!! note "Dowolna Faza"
+            !!! quote "Advanced Training (Reakcja)"
+                Raz na Rundę, kiedy **PRZYJAZNA** JEDNOSTKA Wsparcia aktywuje **ZDOLNOŚĆ SPECJALNĄ**, która kosztuje PD, rozpatrz tę zdolność z kosztem PD zmniejszonym o 1 (do minimum 0). Nie wyczerpuj tej karty.
+
+    ??? info "Armory"
+        ### Armory
+        *Karta Taktyczna*
+        
+        *Koszt: 30 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +1 PD (Punkty Dowodzenia)
+        * **MIEJSCE ELITARNE:** 1
+
+        **Zdolności Karty**
+
+        !!! note "Dowolna Faza"
+            !!! quote "Vehicle Plating (Reakcja)"
+                Użyj, zanim **PRZYJAZNA** Mechaniczna JEDNOSTKA wykona Rzut na Pancerz. Ta JEDNOSTKA otrzymuje **TWARDY** (1) podczas tego rzutu.
+
+        !!! warning "Faza Natarcia"
+            !!! quote "Vehicle Weapons (Aktywna)"
+                Pierwsza użyta Broń Dystansowa aktywnej Mechanicznej JEDNOSTKI otrzymuje **KRYTYCZNE TRAFIENIE** (1).
+
+    ??? info "Barracks"
+        ### Barracks
+        *Karta Taktyczna*
+        
+        *Koszt: 25 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +1 PD (Punkty Dowodzenia)
+        * **MIEJSCE BAZOWE:** 1
+
+        **Zdolności Karty**
+
+        !!! abstract "Faza Ruchu"
+            !!! quote "Go! Go! Go! (Aktywna)"
+                Aktywna Biologiczna JEDNOSTKA wykonuje akcję **RUCHU** o 2". Nie wlicza się to do jej limitu akcji.
+
+    ??? info "Barracks (Proxy) [UNIKALNA]"
+        ### Barracks (Proxy)
+        *Karta Taktyczna*
+        
+        *Koszt: 40 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +2 PD (Punkty Dowodzenia)
+        * **MIEJSCE BAZOWE:** 2
+
+        **Zdolności Karty**
+
+        !!! abstract "Faza Ruchu"
+            !!! quote "Go! Go! Go! (Aktywna)"
+                Aktywna Biologiczna JEDNOSTKA wykonuje akcję **RUCHU** o 2". Nie wlicza się to do jej limitu akcji.
+
+            !!! quote "Armed and Ready (Aktywna)"
+                Aktywna Biologiczna JEDNOSTKA wykonuje **ROZMIESZCZENIE** z dowolnej krawędzi stołu, która nie jest **KRAWĘDZIĄ WEJŚCIA** gracza. Żaden model nie może zostać umieszczony **W ZASIĘGU** 10" od jakiegokolwiek **WROGIEGO** modelu. Z tej zdolności nie można skorzystać, jeśli inna **PRZYJAZNA** Biologiczna JEDNOSTKA wykonała już **ROZMIESZCZENIE** w tej Rundzie.
+
+    ??? info "Barracks (Tech Lab) [UNIKALNA]"
+        ### Barracks (Tech Lab)
+        *Karta Taktyczna*
+        
+        *Koszt: 45 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +2 PD (Punkty Dowodzenia)
+        * **MIEJSCE ELITARNE:** 1
+        * **MIEJSCE BAZOWE:** 1
+
+        **Zdolności Karty**
+
+        !!! abstract "Faza Ruchu"
+            !!! quote "Go! Go! Go! (Aktywna)"
+                Aktywna Biologiczna JEDNOSTKA wykonuje akcję **RUCHU** o 2". Nie wlicza się to do jej limitu akcji.
+
+        !!! warning "Faza Natarcia"
+            !!! quote "Let's Have a Blast! (Aktywna)"
+                Pierwsza użyta Broń Dystansowa aktywnej Biologicznej JEDNOSTKI otrzymuje **ANTY-UNIK** (1).
+
+    ??? info "Dropship [UNIKALNA]"
+        ### Dropship
+        *Karta Taktyczna*
+        
+        *Koszt: 40 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +1 PD (Punkty Dowodzenia)
+        * **MIEJSCE BAZOWE:** 1
+        * **MIEJSCE WSPARCIA:** 1
+
+        **Zdolności Karty**
+
+        !!! abstract "Faza Ruchu"
+            !!! quote "Strap in! (Aktywna)"
+                Aktywna, **NIEZWIĄZANA WALKĄ** Naziemna JEDNOSTKA zostaje umieszczona w **REZERWACH** zamiast wykonywać akcję.
+
+            !!! quote "Ready For Dust-off (Aktywna)"
+                **UMIEŚĆ** Wskaźnik Frakcji w dowolnym miejscu na polu bitwy, w odległości większej niż 10" od jakiegokolwiek **WROGIEGO** modelu. Na Końcu Rundy, **GRACZ KONTROLUJĄCY** może wykonać **ROZMIESZCZENIE** jednej Naziemnej JEDNOSTKI z **REZERW** w kontakcie podstawkami z tym Wskaźnikiem Frakcji.
+
+    ??? info "Engineering Bay"
+        ### Engineering Bay
+        *Karta Taktyczna*
+        
+        *Koszt: 30 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +1 PD (Punkty Dowodzenia)
+        * **MIEJSCE BAZOWE:** 1
+
+        **Zdolności Karty**
+
+        !!! note "Dowolna Faza"
+            !!! quote "Infantry Armor (Reakcja)"
+                Użyj, zanim **PRZYJAZNA** Biologiczna JEDNOSTKA wykona Rzut na Pancerz. Ta JEDNOSTKA otrzymuje **TWARDY** (1) podczas tego rzutu.
+
+        !!! warning "Faza Natarcia"
+            !!! quote "Infantry Weapons (Aktywna)"
+                Pierwsza użyta Broń Dystansowa aktywnej Biologicznej JEDNOSTKI otrzymuje **KRYTYCZNE TRAFIENIE** (1).
+
+    ??? info "Factory"
+        ### Factory
+        *Karta Taktyczna*
+        
+        *Koszt: 35 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +1 PD (Punkty Dowodzenia)
+        * **MIEJSCE ELITARNE:** 2
+
+        **Zdolności Karty**
+
+        !!! abstract "Faza Ruchu"
+            !!! quote "Field Repair (Aktywna)"
+                Aktywna Mechaniczna JEDNOSTKA rozpatruje efekt **LECZENIE** (2).
+
+    ??? info "Orbital Command [UNIKALNA]"
+        ### Orbital Command
+        *Karta Taktyczna*
+        
+        *Koszt: 25 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +1 PD (Punkty Dowodzenia)
+        * **MIEJSCE BAZOWE:** 1
+
+        **Zdolności Karty**
+
+        !!! abstract "Faza Ruchu"
+            !!! quote "ComSat Station (Aktywna)"
+                Wybierz jedną krawędź stołu, która nie jest **KRAWĘDZIĄ WEJŚCIA** żadnego z graczy. Do Końca Rundy, **WROGIE JEDNOSTKI** nie mogą wykonywać **ROZMIESZCZENIA** z tej krawędzi.
+
+            !!! quote "Scanner Sweep (Aktywna)"
+                **UMIEŚĆ** Wskaźnik Frakcji w dowolnym miejscu na polu bitwy. Dopóki **WROGIE JEDNOSTKI** znajdują się **W ZASIĘGU** 6" od tego Wskaźnika Frakcji, tracą **STATUS UKRYTY**.
+
+    ??? info "Supply Depot [UNIKALNA]"
+        ### Supply Depot
+        *Karta Taktyczna*
+        
+        *Koszt: 40 Gazu*
+
+        **Statystyki:**
+
+        * **ZASÓB:** +1 PD (Punkty Dowodzenia)
+        * **MIEJSCE BOHATERA:** 1
+        * **MIEJSCE ELITARNE:** 1
+        * **MIEJSCE BAZOWE:** 1
+
+        **Zdolności Karty**
+
+        !!! abstract "Faza Ruchu"
+            !!! quote "Additional Supply Depots (Aktywna)"
+                **WARTOŚĆ ZAOPATRZENIA** aktywnej JEDNOSTKI jest zwiększona o 1 na potrzeby Kontrolowania i Kwestionowania **ZNACZNIKÓW MISJI** oraz kończenia celów.
