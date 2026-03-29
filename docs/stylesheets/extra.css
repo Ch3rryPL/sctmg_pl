@@ -1,6 +1,6 @@
 /* Poszerzenie głównego kontenera strony */
 :root {
-  --md-grid-max-width: 1400px; 
+  --md-grid-max-width: 1600px; 
 }
 
 /* Opcjonalnie: upewnienie się, że tabele zajmują całą dostępną szerokość */
