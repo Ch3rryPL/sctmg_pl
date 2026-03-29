@@ -1,6 +1,6 @@
-??? note "KARTY FRAKCJI (2)"
+??? note #### "KARTY FRAKCJI (2)"
 
-    ??? info "Rój Kerrigan (Kerrigan's Swarm) [UNIKALNA]"
+    ??? info #### "Rój Kerrigan (Kerrigan's Swarm) [UNIKALNA]"
         *Karta Frakcji*
 
         **Statystyki:**
@@ -10,7 +10,7 @@
         * **MIEJSCE ELITARNE:** 2
         * **MIEJSCE BAZOWE:** 3
 
-        #### Zdolności Karty
+        **Zdolności Karty**
 
         ??? note "Dowolna Faza"
             ??? quote "Dzika Mutacja (Aktywne)"
@@ -23,7 +23,7 @@
             ??? quote "Sieć Omega (Aktywne)"
                 Jeśli na polu bitwy nie ma **PRZYJAZNEGO** Czerwia Omega, **UMIEŚĆ PRZYJAZNĄ JEDNOSTKĘ** Czerwia Omega w dowolnym miejscu na POZIOMIE GRUNTU pola bitwy, w odległości większej niż 10" od jakiegokolwiek **WROGIEGO** modelu. W tej Rundzie Czerw Omega nie jest uprawniony do używania swoich **ZDOLNOŚCI SPECJALNYCH** (z wyłączeniem Struktury).
 
-    ??? info "Rój Zergów (Zerg Swarm) [UNIKALNA]"
+    ??? info #### "Rój Zergów (Zerg Swarm) [UNIKALNA]"
         *Karta Frakcji*
 
         **Statystyki:**
@@ -33,7 +33,7 @@
         * **MIEJSCE BAZOWE:** 3
         * **MIEJSCE WSPARCIA:** 1
 
-        #### Zdolności Karty
+        **Zdolności Karty**
 
         ??? note "Dowolna Faza"
             ??? quote "Instynkt Szczepu (Reakcja)"
