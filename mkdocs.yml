@@ -38,7 +38,7 @@ nav:
       - 'Terran': frakcje/terran.md
       - 'Zerg': frakcje/zerg.md
   - 'Kategoria Trzecia: Karty Misji':
-      - 'Draft i Rozstawienie': misje/index.md
+      - 'Karty Misji': misje/index.md
 
 markdown_extensions:
   - tables
