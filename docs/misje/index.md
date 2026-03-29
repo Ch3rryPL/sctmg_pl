@@ -10,6 +10,12 @@ W tej sekcji znajdziesz opisy wszystkich dostępnych misji. Każda karta misji d
         ### Linia Frontu (Frontlines)
         *Karta Misji*
 
+        **Parametry Gry:**
+        
+        * **Początkowe Zaopatrzenie:** 6
+        * **Przyrost Zaopatrzenia (na Rundę):** 2
+        * **Długość Gry:** 5 Rund
+
         **Rozstawienie i Znaczniki:**
         Gracze rozstawiają się wzdłuż przeciwległych długich krawędzi stołu. 5 **ZNACZNIKÓW MISJI** jest ustawionych w linii prostej przechodzącej przez środek pola bitwy.
 
@@ -29,6 +35,12 @@ W tej sekcji znajdziesz opisy wszystkich dostępnych misji. Każda karta misji d
         ### Zrzut Zaopatrzenia (Supply Drop)
         *Karta Misji*
 
+        **Parametry Gry:**
+        
+        * **Początkowe Zaopatrzenie:** 6
+        * **Przyrost Zaopatrzenia (na Rundę):** 2
+        * **Długość Gry:** 5 Rund
+
         **Rozstawienie i Znaczniki:**
         Rozstawienie wzdłuż długich krawędzi stołu. 2 **ZNACZNIKI MISJI** (Zrzuty) są umieszczone w równej odległości od środka pola bitwy.
 
@@ -44,6 +56,12 @@ W tej sekcji znajdziesz opisy wszystkich dostępnych misji. Każda karta misji d
     ??? info "Zbieranie Zasobów (Gather the Resources)"
         ### Zbieranie Zasobów (Gather the Resources)
         *Karta Misji*
+
+        **Parametry Gry:**
+        
+        * **Początkowe Zaopatrzenie:** 6
+        * **Przyrost Zaopatrzenia (na Rundę):** 2
+        * **Długość Gry:** 5 Rund
 
         **Rozstawienie i Znaczniki:**
         Gracze rozstawiają się w przeciwległych narożnikach. 4 **ZNACZNIKI MISJI** są rozmieszczone na polu bitwy (po jednym w każdej ćwiartce).
@@ -64,6 +82,12 @@ W tej sekcji znajdziesz opisy wszystkich dostępnych misji. Każda karta misji d
         ### Utrzymaj Pozycję (Hold Position)
         *Karta Misji*
 
+        **Parametry Gry:**
+        
+        * **Początkowe Zaopatrzenie:** 6
+        * **Przyrost Zaopatrzenia (na Rundę):** 2
+        * **Długość Gry:** 5 Rund
+
         **Rozstawienie i Znaczniki:**
         Jeden gracz (Obrońca) rozstawia się w strefie centralnej. Drugi gracz (Atakujący) rozstawia się przy krótkich krawędziach stołu. 3 **ZNACZNIKI MISJI** są umieszczone w strefie centralnej.
 
@@ -82,6 +106,12 @@ W tej sekcji znajdziesz opisy wszystkich dostępnych misji. Każda karta misji d
     ??? info "Dziel i Rządź (Divide and Conquer)"
         ### Dziel i Rządź (Divide and Conquer)
         *Karta Misji*
+
+        **Parametry Gry:**
+        
+        * **Początkowe Zaopatrzenie:** 6
+        * **Przyrost Zaopatrzenia (na Rundę):** 2
+        * **Długość Gry:** 5 Rund
 
         **Rozstawienie i Znaczniki:**
         Rozstawienie odbywa się w ćwiartkach (gracze zajmują przeciwległe narożniki). Na polu bitwy umieszcza się 4 **ZNACZNIKI MISJI** - po jednym na środku każdej ćwiartki.
@@ -110,6 +140,12 @@ Misje typu Potyczka są przeznaczone do szybszych gier na mniejszym formacie pun
         ### Linia Frontu: Potyczka
         *Potyczka*
 
+        **Parametry Gry:**
+        
+        * **Początkowe Zaopatrzenie:** 4
+        * **Przyrost Zaopatrzenia (na Rundę):** 1
+        * **Długość Gry:** 4 Rundy
+
         **Rozstawienie i Znaczniki:**
         Gracze rozstawiają się wzdłuż przeciwległych długich krawędzi stołu (w mniejszych strefach). 3 **ZNACZNIKI MISJI** są ustawione w linii prostej przechodzącej przez środek pola bitwy.
 
@@ -129,6 +165,12 @@ Misje typu Potyczka są przeznaczone do szybszych gier na mniejszym formacie pun
         ### Zrzut Zaopatrzenia: Potyczka
         *Potyczka*
 
+        **Parametry Gry:**
+        
+        * **Początkowe Zaopatrzenie:** 4
+        * **Przyrost Zaopatrzenia (na Rundę):** 1
+        * **Długość Gry:** 4 Rundy
+
         **Rozstawienie i Znaczniki:**
         Rozstawienie wzdłuż długich krawędzi stołu. 1 centralny **ZNACZNIK MISJI** (Zrzut) jest umieszczony dokładnie na środku pola bitwy.
 
@@ -145,8 +187,14 @@ Misje typu Potyczka są przeznaczone do szybszych gier na mniejszym formacie pun
         ### Zbieranie Zasobów: Potyczka
         *Potyczka*
 
+        **Parametry Gry:**
+        
+        * **Początkowe Zaopatrzenie:** 4
+        * **Przyrost Zaopatrzenia (na Rundę):** 1
+        * **Długość Gry:** 4 Rundy
+
         **Rozstawienie i Znaczniki:**
-        Gracze rozstawiają się w przeciwległych narożnikach. 2 **ZNACZNIKI MISJI** są rozmieszczone w centrum dwóch neutralnych ćwiartek.
+        Gracze rozstawiają się w przeciwległych narożnikach. 2 **ZNACZNIKI MISJI** są rozmieszczone w neutralnych ćwiartkach pola bitwy.
 
         **Cele Misji**
 
@@ -163,6 +211,12 @@ Misje typu Potyczka są przeznaczone do szybszych gier na mniejszym formacie pun
     ??? info "Utrzymaj Pozycję: Potyczka (Hold Position - Skirmish)"
         ### Utrzymaj Pozycję: Potyczka
         *Potyczka*
+
+        **Parametry Gry:**
+        
+        * **Początkowe Zaopatrzenie:** 4
+        * **Przyrost Zaopatrzenia (na Rundę):** 1
+        * **Długość Gry:** 4 Rundy
 
         **Rozstawienie i Znaczniki:**
         Jeden gracz (Obrońca) rozstawia się w strefie centralnej. Drugi gracz (Atakujący) rozstawia się w pozostałych narożnikach/strefach wokół środka. 1 centralny **ZNACZNIK MISJI** jest umieszczony w strefie obrońcy.
@@ -183,8 +237,14 @@ Misje typu Potyczka są przeznaczone do szybszych gier na mniejszym formacie pun
         ### Dziel i Rządź: Potyczka
         *Potyczka*
 
+        **Parametry Gry:**
+        
+        * **Początkowe Zaopatrzenie:** 4
+        * **Przyrost Zaopatrzenia (na Rundę):** 1
+        * **Długość Gry:** 4 Rundy
+
         **Rozstawienie i Znaczniki:**
-        Rozstawienie odbywa się w ćwiartkach (gracze zajmują przeciwległe strefy na zmniejszonym obszarze). Na polu bitwy umieszcza się 3 **ZNACZNIKI MISJI** na osi dzielącej strefy.
+        Rozstawienie odbywa się w ćwiartkach (gracze zajmują przeciwległe strefy). Na polu bitwy umieszcza się 3 **ZNACZNIKI MISJI** na osi dzielącej strefy.
 
         **Cele Misji**
 
