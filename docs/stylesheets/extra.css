@@ -1,7 +1,15 @@
-:root {
-  --md-grid-max-width: 1600px !important; 
+/* Wymuszenie szerszego układu dla całej siatki (grid) */
+.md-grid {
+  max-width: 1600px !important; /* Możesz tu wpisać nawet 90vw (90% szerokości ekranu) */
 }
 
+/* Zapobieganie ściskaniu tekstu wewnątrz głównej sekcji */
+.md-content {
+  max-width: 100% !important;
+}
+
+/* Wymuszenie na tabelach, by rozciągały się na całą dostępną szerokość kontenera */
 .md-typeset table {
   width: 100% !important;
+  display: table !important; /* Zapobiega pojawianiu się niepotrzebnych suwaków poziomych na szerokich ekranach */
 }
