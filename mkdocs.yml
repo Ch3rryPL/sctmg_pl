@@ -35,7 +35,7 @@ nav:
   - 'Kategoria Druga: Frakcje i Karty':
       - 'Przegląd Frakcji': frakcje/index.md
       - 'Protoss': frakcje/index.md
-      - 'Terran': frakcje/index.md
+      - 'Terran': frakcje/terran.md
       - 'Zerg': frakcje/zerg.md
   - 'Kategoria Trzecia: Karty Misji':
       - 'Draft i Rozstawienie': misje/index.md
